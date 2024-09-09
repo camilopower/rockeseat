@@ -6,9 +6,14 @@ public class testedeconstructor {
     public static void main(String[] args) {
         
 
-   Constructor constructor = new Constructor(1, "texto");
-   Constructor constructor1 = new Constructor(2);
+   Constructor constructor = new Constructor(7, "texto");
+   
 
-    }
+
+constructor.toString();
+System.out.println(constructor);
+
     
 }
+}
+
