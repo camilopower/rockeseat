@@ -27,4 +27,11 @@ public void setNumero(int numero) {
      
 }
 
+
+public String toString{
+return "Nome: "+ nome +", Numero:" +numero;
+}
+
+
+
 }
